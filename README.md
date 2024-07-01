@@ -1,4 +1,4 @@
-## CPU-overload-trick
+## CPU overloading with python
 
 #### this code makes your CPU go to 100% by computing alot of things at once with threads
 ---
